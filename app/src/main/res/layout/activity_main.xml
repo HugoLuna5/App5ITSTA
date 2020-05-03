@@ -15,7 +15,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:inputType="textPersonName"
-        android:text="Name"/>
+        android:hint="Name"/>
 
     <ListView
         android:id="@+id/lista"
